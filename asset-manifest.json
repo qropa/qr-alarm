@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/qr-alarm/static/css/main.f855e6bc.css",
-    "main.js": "/qr-alarm/static/js/main.3dd28f45.js",
+    "main.js": "/qr-alarm/static/js/main.d5ea58b1.js",
     "static/js/453.2a8bbb8a.chunk.js": "/qr-alarm/static/js/453.2a8bbb8a.chunk.js",
     "service-worker.js": "/qr-alarm/service-worker.js",
     "index.html": "/qr-alarm/index.html",
     "main.f855e6bc.css.map": "/qr-alarm/static/css/main.f855e6bc.css.map",
-    "main.3dd28f45.js.map": "/qr-alarm/static/js/main.3dd28f45.js.map",
+    "main.d5ea58b1.js.map": "/qr-alarm/static/js/main.d5ea58b1.js.map",
     "453.2a8bbb8a.chunk.js.map": "/qr-alarm/static/js/453.2a8bbb8a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.3dd28f45.js"
+    "static/js/main.d5ea58b1.js"
   ]
 }
